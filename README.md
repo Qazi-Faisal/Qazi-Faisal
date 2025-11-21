@@ -79,16 +79,36 @@
 - Provided cloud account management and collaborated with developers on deployment automation.
 - Achieved AWS Certified status and awarded **Employee of the Year** for outstanding contributions to cloud infrastructure management.
 
-**Cloud Infrastructure Engineer**  
-*GenClouds*  
-- Worked on CI/CD pipeline management using GitHub Actions, automating the scaling and maintenance of infrastructure across AWS multi-account setup.
-- Worked on real-time client infrastructure with AWS, ensuring seamless deployment and scaling.
-- Automated internal configuration management using Ansible and managed 10+ Kubernetes clusters over AKS, EKS, and GKE.
+#### Professional Experience
 
 **Lead DevOps Engineer**  
 *IET (San Francisco-based company)*  
-- Worked on international projects, deploying applications on AWS, Azure, and GCP.
+- Managed **30+ EKS clusters**, **2k+ servers**, and **20+ database servers** across AWS, Azure, and GCP.
+- Worked on international projects, deploying applications with a focus on scalability and reliability.
 - Troubleshot and debugged existing code, providing AI services and transcription services to clients.
-- Managed infrastructure using Terraform and automated deployment pipelines with Jenkins.
+- Managed infrastructure using **Terraform** and automated deployment pipelines with **Jenkins**.
+- Ensured real-time monitoring and observability through **CloudWatch** and the **LGTM stack** (Loki, Grafana, Tempo, Mimir) and **OpenTelemetry** collector.
+- Actively worked on implementing **SRE best practices**, enhancing system reliability and performance.
+- Awarded **Top Performer** for exceptional problem-solving and client delivery.
+
+**Cloud Infrastructure Engineer**  
+*GenClouds*  
+- Managed **CI/CD pipeline** development and automation using **GitHub Actions**.
+- Automated the scaling and maintenance of infrastructure across **AWS multi-account setup**.
+- Worked on real-time client infrastructure with **AWS**, ensuring seamless deployment and scaling.
+- Automated internal configuration management using **Ansible** and managed **10+ Kubernetes clusters** over **AKS, EKS, and GKE**.
+- Focused on optimizing scalable, reliable solutions for every client project, ensuring high availability and fault tolerance.
+- Conducted **R&D POCs** for startup and mid-level companies, developing innovative solutions for rapid growth.
+- Optimized **cost for client accounts by over 50%**, implementing cost-saving strategies without sacrificing performance.
+- Trained custom AI models and deployed them on AI platforms like **RunPods** to enhance client capabilities.
+
+**Data Engineer | MLOps Associate**   
+*CareCloud*  
+- Prepared high-quality datasets for machine learning models, focusing on accurate and reliable data collection.
+- Worked on training, modeling, and testing, ensuring models met performance benchmarks.
+- Evaluated models through systematic testing and validation to ensure quality results.
+- Utilized **Bash**, **Shell**, and **Python** scripting for automating pipeline checks, creating efficient and reliable solutions.
+
+
 - Ensured real-time monitoring and observability through the LGTM stack and OpenTelemetry collector.
 - Awarded **Top Performer** for exceptional problem-solving and client delivery.
