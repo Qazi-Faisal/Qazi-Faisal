@@ -71,19 +71,25 @@
 </p>
 
 #### Professional Experience
+
 **Lead DevOps Engineer**  
-*Tech Edge Solutions*  
-Architected scalable cloud-native infrastructure and led the DevOps team in automating CI/CD pipelines, infrastructure management, and monitoring across AWS, Azure, GCP, and Alibaba Cloud.
+*ExpertsCloud*  
+- Managed cloud infrastructure for web and mobile app deployments on hybrid cloud platforms.
+- Migrated servers and databases between clouds with zero downtime.
+- Provided cloud account management and collaborated with developers on deployment automation.
+- Achieved **AWS Certified** status and awarded **Employee of the Year** for outstanding contributions to cloud infrastructure management.
 
 **Senior DevOps Engineer**  
-*CareCloud*  
-Managed cloud infrastructure, implemented real-time observability and automated deployment pipelines, ensuring high availability and scalability for healthcare applications.
+*GenClouds*  
+- Worked on CI/CD pipeline management using GitHub Actions, automating the scaling and maintenance of infrastructure across AWS multi-account setup.
+- Worked on real-time client infrastructure with AWS, ensuring seamless deployment and scaling.
+- Automated internal configuration management using Ansible and managed 10+ Kubernetes clusters over AKS, EKS, and GKE.
 
 **Cloud Infrastructure Engineer**  
-*Riversand Technologies*  
-Designed and automated cloud-based infrastructures and deployments using Terraform, Ansible, and Kubernetes, improving efficiency and reducing manual errors.
-
-**Site Reliability Engineer (SRE)**  
-*Various Clients*  
-Focused on system reliability, performance tuning, and disaster recovery while ensuring the uptime of mission-critical systems using cloud-native tools and automation.
+*IET (San Francisco-based company)*  
+- Worked on international projects, deploying applications on AWS, Azure, and GCP.
+- Troubleshot and debugged existing code, providing AI services and transcription services to clients.
+- Managed infrastructure using Terraform and automated deployment pipelines with Jenkins.
+- Ensured real-time monitoring and observability through the LGTM stack and OpenTelemetry collector.
+- Awarded **Top Performer** for exceptional problem-solving and client delivery.
 
